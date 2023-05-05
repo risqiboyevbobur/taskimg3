@@ -15,7 +15,7 @@ body {
   bottom: 0px;
   width: 80%;
   height: 10px;
-  background: crimson;
+  background: rgb(30, 220, 20);
   left: 10%;
   text-align: center;
   transition: 0.5s;
@@ -36,7 +36,7 @@ body {
   transform: translateY(0%);
 }
 .bigDiv:hover .Hello {
-  transform: translateY(-20%);
+  transform: translateY(-0%);
   width: 100%;
   left: 0;
   bottom: 0;
